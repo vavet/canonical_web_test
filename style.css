@@ -7,14 +7,17 @@
     padding-top: 0.25rem !important;
 }
 
+.custom-card-body{
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
 .custom-card-footer{
     padding-top: 1rem;
     font-weight: 300;
 }
 
-.custom-card-body{
-    font-weight: 300;
-}
 
 .custom-box-default{
     padding:0.5rem;
